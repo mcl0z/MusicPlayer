@@ -22,8 +22,8 @@ This is a music player based on pygame-ce. You can't run it with pygame because 
 # Plans
 
  - [X] Musical note effects while playing
- - [ ] Improved UI interface
- - [ ] Lyrics display
+ - [X] Improved UI interface
+ - [X] Lyrics display
  - [ ] Gaussian blur for lyrics
  - [ ] Window resizing capability [not a high priority for now]
  - [ ] Automatic retrieval of lyrics, cover art, and other information [also not a high priority for now]
