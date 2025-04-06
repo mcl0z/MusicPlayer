@@ -41,3 +41,4 @@ For more updates, please refer to the commit history.
 7月13日，使用Pygame开发的基本路线已经敲定，MusicPlayer v2开始开发，至少有了GUI界面；加入了播放音乐时的效果
 
 更多更新日志，请看commit
+-Onedoushabao 
