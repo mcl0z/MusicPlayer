@@ -1,6 +1,6 @@
 ### [English](/readme.md) | 简体中文
 
-![MusicPlayer](https://socialify.git.ci/Doushabao233/MusicPlayer/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Light)
+![MusicPlayer]([https://socialify.git.ci/Doushabao233/MusicPlayer/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Light](https://socialify.git.ci/mcl0z/MusicPlayer/image?custom_description=A+music+player+based+on+Pygame-ce.+%28work-in-progress%29&description=1&font=Jost&issues=1&language=1&name=1&owner=1&pattern=Solid&pulls=1&stargazers=1&theme=Dark))
 
 # 截图
 
