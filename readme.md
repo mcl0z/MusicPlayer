@@ -4,7 +4,7 @@
 
 # Screenshots
 
-![image.png](https://s2.loli.net/2023/08/03/rREXwvT28zc6WHG.png)
+![image.png](http://47.97.203.23:8002/download?filename=uploads%5C1.png)
 
 ---
 
